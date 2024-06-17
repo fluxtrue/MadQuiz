@@ -1,2 +1,2 @@
 # MadQuiz
-Mad, a quiz game that is not very hard but i tried to make it hard so enjoy
+This is MadQuiz a quiz that might be hard soon! By the way to get different versions click on the Releases page.
